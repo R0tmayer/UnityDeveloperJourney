@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3faa6f32786c4da58a23124dc773a0bd, type: 3}
+  m_Name: BoardGenerator
+  m_EditorClassIdentifier: 
+  _boardSize: 6
+  _emptyTilesAmount: 3
+  _ballsPull:
+  - {fileID: 7708203294734343972, guid: 2a00c72b66f3c9849904528798f3fe42, type: 3}
+  - {fileID: 8745199086118645195, guid: e132ac701a03879488ca7f42f10a6fb7, type: 3}
+  - {fileID: 7257797117256837554, guid: 708c398317782e04ca821511127219b9, type: 3}
+  - {fileID: 4538005955201673484, guid: aa507603ea81d9548a3f7262057634fd, type: 3}
+  _tilePrefab: {fileID: 5352586611204966416, guid: 2dc1c340c62780f4a8faee0a0f2c879b,
+    type: 3}

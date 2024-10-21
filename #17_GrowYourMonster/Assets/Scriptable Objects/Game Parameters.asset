@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3c1d869e9b24a20a1bd112b897f67b9, type: 3}
+  m_Name: Game Parameters
+  m_EditorClassIdentifier: 
+  _shakeEase: 1
+  _shakeDuration: 0.1146
+  _shakeStrength: 0.464
+  _obstacleScaleDuration: 1
+  _obstacleScaleDelay: 1
+  _obstacleForce: 10
+  _heroAttackModificator: 0.5
+  _blendShapeRate: 0.2
